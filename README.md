@@ -42,6 +42,6 @@ docker build -t cburger_samosa_classifier . && docker run --rm -it -p 5000:5000 
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Burger-or-Samosa-.png)
 
   
