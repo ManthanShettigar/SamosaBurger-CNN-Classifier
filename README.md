@@ -8,7 +8,7 @@ it contains many images of food and i choose the images of Samosa and Burger for
 
 
 
-## Run Model locally
+## Run Model locally ### ( make sure you have installed all the packages)
 
 Clone the project
 
