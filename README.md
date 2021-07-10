@@ -10,7 +10,8 @@ Food101 Dataset link : https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-10
 
 ## Run Model locally 
 
-Make sure you have installed latest libraries of Pytorch and fastai
+Make sure you have installed latest libraries of Pytorch,fastai and your gpu is cuda enabled and its compute capability is above 3.0
+check here : https://developer.nvidia.com/cuda-gpus
 
 Clone the project
 
