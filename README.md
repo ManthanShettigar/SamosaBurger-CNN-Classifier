@@ -6,7 +6,7 @@ For containerization and easy deployment I used Docker.
 The dataset used for building the model is Food-101 Dataset which is provided by FastAI
 it contains many images of food and i choose the images of Samosa and Burger for building a CNN Classifier.
 
-
+Food101 Dataset link : https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 
 ## Run Model locally 
 
