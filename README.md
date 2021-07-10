@@ -13,7 +13,7 @@ it contains many images of food and i choose the images of Samosa and Burger for
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ManthanShettigar/SamosaBurger-CNN-Classifier.git
 ```
 
 Go to the project directory
