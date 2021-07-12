@@ -10,7 +10,7 @@ Food101 Dataset link : https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-10
 
 ## Open in Google colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XkYIN_CO_MkoxYRTL44x661P9uXmyFX6#scrollTo=FxzIJWfEkKD8)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/ManthanShettigar/29885afe0a904a6e5d1c78f368311d9b/food-model.ipynb)
 
 ## Train Model locally 
 
