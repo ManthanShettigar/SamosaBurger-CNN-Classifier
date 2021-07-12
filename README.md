@@ -8,7 +8,11 @@ it contains many images of food and i choose the images of Samosa and Burger for
 
 Food101 Dataset link : https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 
-## Run Model locally 
+## Open in Google colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XkYIN_CO_MkoxYRTL44x661P9uXmyFX6#scrollTo=FxzIJWfEkKD8)
+
+## Train Model locally 
 
 Make sure you have installed latest libraries of Pytorch,fastai and your gpu is cuda enabled and its compute capability is above 3.0
 check here : https://developer.nvidia.com/cuda-gpus
